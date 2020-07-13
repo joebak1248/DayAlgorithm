@@ -1,0 +1,24 @@
+## https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem
+
+
+static boolean hasCycle(SinglyLinkedListNode head) {
+        if (head == null) {
+            return false;
+        }
+        
+        SinglyLinkedListNode slow = head;
+        SinglyLinkedListNode fast = head;
+
+        while((slow.next != null) && 
+        (fast.next != null) && 
+        (fast.next.next != null)) {
+            slow = slow.next;
+            fast = fast.next.next;
+
+            if (slow == fast) {
+                return true;
+            }
+        }
+
+        return false;
+    }
