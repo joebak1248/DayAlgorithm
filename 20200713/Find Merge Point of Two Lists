@@ -1,0 +1,24 @@
+https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem
+
+static int findMergeNode(SinglyLinkedListNode head1, SinglyLinkedListNode head2) {
+        if (head1 == null || head2 == null) {
+            return 0;
+        }
+
+        SinglyLinkedListNode  node1 = head1;
+
+        while(node1.next != null) {
+            node1 = node1.next;
+
+            SinglyLinkedListNode  node2 = head2;
+            while(node2.next != null) {
+                node2 = node2.next;
+
+                if (node1 == node2) {
+                    return node1.data;
+                }
+            }
+        }
+
+        return node1.data;
+    }
