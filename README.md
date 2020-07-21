@@ -2,4 +2,4 @@
 * Array
 * List
 * DFS, BFS
-* DP
+* DP < `대회에서 많이 사용된다고 함`
