@@ -25,6 +25,9 @@
 * 코드 작성의 변화
     * 아무래도 많은 양의 코드를 쓰다보니, stream(), forEach(), map() 과 같이 간결하게 작성하는 잡기술이 생김
 
-### 조심할 점
-[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586?language=java) , [문자열압축](https://programmers.co.kr/learn/courses/30/lessons/60057) > 코드는 쉬운데 문제를 잘못 이해하고 풀었다.
-<br>코드가 복잡한 것 같다면, 문제를 잘못 이해한건 아닌가 되돌아 보자.<br>
+### 문제를 잘못 읽고 틀린 문제들
+[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586?language=java) , [문자열압축](https://programmers.co.kr/learn/courses/30/lessons/60057), [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)
+<br>
+* 겸손하게 풀자. 자신감이 가장 큰 원인
+* 실수할 것 같은 곳에 동그라미, 주석 달기.
+* 코드가 복잡한 것 같다면, 문제를 잘못 이해한건 아닌가 생각해보기.
