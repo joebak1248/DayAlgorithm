@@ -25,6 +25,11 @@
 * 코드 작성의 변화
     * 아무래도 많은 양의 코드를 쓰다보니, stream(), forEach(), map() 과 같이 간결하게 작성하는 잡기술이 생김
 
+### 가장 많이 틀린 케이스
+* 문제를 완벽하게 파악하지 못함
+   * 종이에 써본다.
+   * 가능한 여러 테스트케이스를 작성해본다.
+   
 ### 문제를 잘못 읽고 틀린 문제들
 [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586?language=java) , [문자열압축](https://programmers.co.kr/learn/courses/30/lessons/60057), [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)
 <br>
