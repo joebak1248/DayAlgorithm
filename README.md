@@ -11,6 +11,9 @@
     * 최단거리, 최단 경우의 수 구하기
 * DP 전략 < `대회에서 많이 사용된다고 함`
     * n과 관련된 (n-1), (n-2) 가 있을떄, (n-1) + (n-2) = n 으로 표현가능할 때.
+* 이진탐색
+    * 여러 조건들을 주고, 최솟값을 선택할 때.
+    * [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238), [달팽이](https://www.acmicpc.net/problem/2869)
 * Ad hoc
     * 아이디어로 문제를 해결
     * ex> Sliding Window
