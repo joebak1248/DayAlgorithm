@@ -16,7 +16,8 @@
     * [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238), [달팽이](https://www.acmicpc.net/problem/2869)
 * Ad hoc
     * 아이디어로 문제를 해결
-    * ex> Sliding Window
+    * ex> Sliding Window, 소수 구하기 (에라토스테네스의 체)
+        * 막대기하나로 지구의 둘레를 구해서 유명했는데, 소수찾기 까지 했다니 대단 ..
     
 ### 알고리즘 후 겪는 변화들
 * 예전보다 코드를 읽는 시간이 많아졌다.
