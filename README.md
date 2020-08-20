@@ -1,3 +1,6 @@
+* https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/#algo1
+
+
 ## 왜 알고리즘을 공부하는가?
 * 정답) 실리콘벨리 기업들이 채용시 평가요소여서
     * 그들은 왜 알고리즘으로 채용을 하는가? (구글)
